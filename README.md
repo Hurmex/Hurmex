@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Hurmex/Hurmex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hurmex/Hurmex** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 - 🔭 I’m currently working on maturita at spsmb.cz
 - 🌱 I’m currently learning JS, Java
