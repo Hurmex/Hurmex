@@ -7,3 +7,4 @@
 - 🌱 I’m currently learning JS, Java
 - 🤔 I’m looking for help with everything
 - ⚡ Fun fact: I'm underage
+- If Urban Jan sees [this](https://www.youtube.com/watch?v=X4JMV9cAW98) vi von zulul!
